@@ -22,7 +22,6 @@ pod 'PTLPlaceholderView'
 
 ## Author
 
-pengtanglong_local@163.com, pengtanglong_local@163.com
 
 ## License
 
