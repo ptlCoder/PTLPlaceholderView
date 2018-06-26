@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PTLPlaceholderView_Example' do
+  pod 'PTLPlaceholderView', :path => '../'
+
+  target 'PTLPlaceholderView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
