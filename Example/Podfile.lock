@@ -1,0 +1,16 @@
+PODS:
+  - PTLPlaceholderView (0.1.0)
+
+DEPENDENCIES:
+  - PTLPlaceholderView (from `../`)
+
+EXTERNAL SOURCES:
+  PTLPlaceholderView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PTLPlaceholderView: 24cbde455e943dcd10ccac498059c16403541b27
+
+PODFILE CHECKSUM: 439b541196e1c0079b8acdadbb3e41624a7af772
+
+COCOAPODS: 1.4.0

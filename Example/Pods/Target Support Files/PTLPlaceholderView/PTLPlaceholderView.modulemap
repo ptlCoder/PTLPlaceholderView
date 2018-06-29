@@ -1,0 +1,6 @@
+framework module PTLPlaceholderView {
+  umbrella header "PTLPlaceholderView-umbrella.h"
+
+  export *
+  module * { export * }
+}
